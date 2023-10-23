@@ -3,21 +3,21 @@
 
 ![sheep](./docs/assets/sheep.jpg)
 
-<div class="flex-container">
-  <div class="flex-child">
+<div class="d-flex flex-md-row justify-content-center">
+  <div class="p-2">
   Tinu Schneider <br>   
   Linda 3    <br>
   7412 Scharans <br><br>
     
   +41 (0)76 445 83 01   <br>
-  <a href="mailto:tinu@schafhirt.ch">tinu@schafhirt.ch</a>
+  <a href="mailto:tinu@schafhirt.ch">tinu@schafhirt.ch</a> <br>
   </div>
   
-  <div class="flex-child"  style="margin-right: 25px;">
-    <img src="./docs/assets/tinu_I.jpg" alt="tinu 1"  >
+  <div class="p-2"  style="margin-right: 25px;">
+    <img src="./docs/assets/tinu_I.jpg" alt="tinu 1" max-width="300px"  >
   </div>
 
-  <div class="flex-child"  >
+  <div class="p-2"  >
     <img src="./docs/assets/tinu_II.jpg" alt="tinu 2" >
   </div>
 </div>
@@ -28,9 +28,9 @@
 ## Arbeit mit Schafen
 
 - Sommer 2023: Alp Starlera GR
-- Winter 22/23: Betriebshelfer Stettler, Thurhof TG
+- Winter 22/23: Betriebshelfer Stettler, Thurhof TG <br> <br>
 - Sommer 2022: Alp Starlera GR
-- Winter 21/22: Betriebshelfer Amacher, Hirzenloch BE
+- Winter 21/22: Betriebshelfer Amacher, Hirzenloch BE <br> <br>
 - Sommer 2021: Alp Karliböden/Zanai SG
 - Winter 20/21: Schafhirtenausbildung
 
