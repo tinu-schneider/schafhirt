@@ -11,7 +11,7 @@
   Linda 3    <br>
   7412 Scharans <br><br>
     
-  +41 (0)76 445 83 01    
+  +41 (0)76 445 83 01   <br>
   <a href="mailto:tinu@schafhirt.ch">tinu@schafhirt.ch</a>
   </div>
   
