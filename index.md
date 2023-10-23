@@ -16,8 +16,8 @@
   </div>
   
   <div class="flex-child green">
-    ![tinu 1](./docs/assets/tinu_I.jpg)
-    ![tinu 2](./docs/assets/tinu_II.jpg)
+    <img src="./docs/assets/tinu_I.jpg" alt="tinu 1"  height="350px">
+    <img src="./docs/assets/tinu_II.jpg" alt="tinu 2" height="350px">
   </div>
 </div>
 
