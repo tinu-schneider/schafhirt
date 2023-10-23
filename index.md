@@ -5,26 +5,20 @@
 
 ![sheep](./docs/assets/sheep.jpg)
 
-
-Tinu Schneider    
-Linda 3    
-7412 Scharans
-
-+41 (0)76 445 83 01    
-<a href="mailto:tinu@schafhirt.ch">tinu@schafhirt.ch</a>
-
-
-### 2-col
 <div class="flex-container">
-
   <div class="flex-child magenta">
-    Flex Column 1
+  Tinu Schneider <br>   
+  Linda 3    <br>
+  7412 Scharans <br><br>
+    
+  +41 (0)76 445 83 01    
+  <a href="mailto:tinu@schafhirt.ch">tinu@schafhirt.ch</a>
   </div>
   
   <div class="flex-child green">
-    Flex Column 2
+    ![tinu 1](./docs/assets/tinu_I.jpg)
+    ![tinu 2](./docs/assets/tinu_II.jpg)
   </div>
-  
 </div>
 
 
