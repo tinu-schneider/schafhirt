@@ -1,6 +1,6 @@
 # Schafhirt Tinu Schneider
 
-![sheep](sheep.jpg)
+![sheep](./docs/assets/sheep.jpg)
 
 
 Tinu Schneider    
