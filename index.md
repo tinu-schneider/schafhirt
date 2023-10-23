@@ -11,7 +11,7 @@ Linda 3
 
 
 
-## History
+## Arbeit mit Schafen
 
 - Sommer 2023: Alp Starlera GR
 - Winter 22/23: Betriebshelfer Stettler, Thurhof TG
@@ -20,6 +20,7 @@ Linda 3
 - Sommer 2021: Alp Karliböden/Zanai SG
 - Winter 20/21: Schafhirtenausbildung
 
+<br><br>
 ### Noch früher
 - Umwelt-Ing. ETH
 - Zimmermann
