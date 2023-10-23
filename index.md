@@ -21,10 +21,10 @@ Linda 3
 - Sommer 2021: Alp Karliböden/Zanai SG
 - Winter 20/21: Schafhirtenausbildung
 
-<br><br>
+<br>
 
 ### Früher
-- [Tinu Schneider Datenanalyse](tinuschneider.ch)
+- [Tinu Schneider Datenanalyse](https://tinuschneider.ch)
 - Umwelt-Ing. ETH
 - Zimmermann
 - Geboren 1968 in Bern
