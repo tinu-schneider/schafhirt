@@ -4,7 +4,7 @@
 ![sheep](./docs/assets/sheep.jpg)
 
 <div class="d-flex justify-content-center">
-  <div class="p-2" style="shrink: 0;">
+  <div class="p-2" style="flex-shrink: 0;">
   Tinu Schneider <br>   
   Linda 3    <br>
   7412 Scharans <br><br>
