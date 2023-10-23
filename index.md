@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="./docs/assets/styles.css">
-
 
 # Schafhirt Tinu Schneider
 
