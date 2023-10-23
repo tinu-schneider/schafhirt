@@ -1,6 +1,7 @@
 # Schafhirt Tinu Schneider
 
-_here will be an image of sheep_
+![sheep](sheep.jpg)
+
 
 Tinu Schneider    
 Linda 3    
