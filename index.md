@@ -19,3 +19,8 @@ Linda 3
 - Winter 21/22: Betriebshelfer Amacher, Hirzenloch BE
 - Sommer 2021: Alp Karliböden/Zanai SG
 - Winter 20/21: Schafhirtenausbildung
+
+### Noch früher
+- Umwelt-Ing. ETH
+- Zimmermann
+- Geboren 1968 in Bern
