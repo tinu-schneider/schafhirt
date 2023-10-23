@@ -10,7 +10,7 @@ Linda 3 <br>
 +41 (0)76 445 83 01   <br>
 <a href="mailto:tinu@schafhirt.ch">tinu@schafhirt.ch</a> <br>
   
-<img src="./docs/assets/tinu_I.jpg" alt="tinu 1"   max-width="250px"> <br> 
+<img src="./docs/assets/tinu_I.jpg" alt="tinu 1"   style="max-width:250px; width:100%"> <br> 
 <img src="./docs/assets/tinu_II.jpg" alt="tinu 2"  max-width="250px"> <br>
 <img src="./docs/assets/tinu_III.jpg" alt="tinu 3" max-width="250px">
 
