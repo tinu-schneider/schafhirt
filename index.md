@@ -24,7 +24,7 @@ Linda 3
 <br>
 
 ### Früher
-- [Tinu Schneider Datenanalyse](https://tinuschneider.ch)
+- [Tinu Schneider Datenanalyse](https://tinuschneider.ch target="_blank")
 - Umwelt-Ing. ETH
 - Zimmermann
 - Geboren 1968 in Bern
