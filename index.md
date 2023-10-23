@@ -10,6 +10,7 @@ Linda 3
 +41 (0)76 445 83 01
 
 
+<br>
 
 ## Arbeit mit Schafen
 
@@ -21,7 +22,9 @@ Linda 3
 - Winter 20/21: Schafhirtenausbildung
 
 <br><br>
-### Noch früher
+
+### Früher
+- [Tinu Schneider Datenanalyse](tinuschneider.ch)
 - Umwelt-Ing. ETH
 - Zimmermann
 - Geboren 1968 in Bern
