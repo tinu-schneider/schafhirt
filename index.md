@@ -3,8 +3,8 @@
 
 ![sheep](./docs/assets/sheep.jpg)
 
-<div class="d-flex flex-md-row justify-content-center">
-  <div class="p-2">
+<div class="d-flex justify-content-center">
+  <div class="p-2" style="shrink: 0;">
   Tinu Schneider <br>   
   Linda 3    <br>
   7412 Scharans <br><br>
@@ -13,7 +13,7 @@
   <a href="mailto:tinu@schafhirt.ch">tinu@schafhirt.ch</a> <br>
   </div>
   
-  <div class="p-2"  style="margin-right: 25px;">
+  <div class="p-2">
     <img src="./docs/assets/tinu_I.jpg" alt="tinu 1" max-width="300px"  >
   </div>
 
