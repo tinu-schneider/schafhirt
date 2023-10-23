@@ -7,7 +7,7 @@ Tinu Schneider
 Linda 3    
 7412 Scharans
 
-+41 (0)76 445 83 01
++41 (0)76 445 83 01    
 <a href="mailto:tinu@schafhirt.ch">tinu@schafhirt.ch</a>
 
 
