@@ -6,7 +6,7 @@
 ![sheep](./docs/assets/sheep.jpg)
 
 <div class="flex-container">
-  <div class="flex-child magenta">
+  <div class="flex-child">
   Tinu Schneider <br>   
   Linda 3    <br>
   7412 Scharans <br><br>
@@ -15,8 +15,11 @@
   <a href="mailto:tinu@schafhirt.ch">tinu@schafhirt.ch</a>
   </div>
   
-  <div class="flex-child green">
+  <div class="flex-child">
     <img src="./docs/assets/tinu_I.jpg" alt="tinu 1"  height="350px">
+  </div>
+
+  <div class="flex-child">
     <img src="./docs/assets/tinu_II.jpg" alt="tinu 2" height="350px">
   </div>
 </div>
