@@ -15,11 +15,11 @@
   <a href="mailto:tinu@schafhirt.ch">tinu@schafhirt.ch</a>
   </div>
   
-  <div class="flex-child">
+  <div class="flex-child"  style="margin-right: 25px;">
     <img src="./docs/assets/tinu_I.jpg" alt="tinu 1"  >
   </div>
 
-  <div class="flex-child">
+  <div class="flex-child"  >
     <img src="./docs/assets/tinu_II.jpg" alt="tinu 2" >
   </div>
 </div>
