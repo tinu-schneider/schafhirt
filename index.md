@@ -3,25 +3,16 @@
 
 ![sheep](./docs/assets/sheep.jpg)
 
-<div class="d-flex justify-content-center">
-  <div class="p-2" style="flex-shrink: 0;">
-  Tinu Schneider <br>   
-  Linda 3    <br>
-  7412 Scharans <br><br>
+Tinu Schneider <br>
+Linda 3 <br>
+7412 Scharans <br><br>
     
-  +41 (0)76 445 83 01   <br>
-  <a href="mailto:tinu@schafhirt.ch">tinu@schafhirt.ch</a> <br>
-  </div>
++41 (0)76 445 83 01   <br>
+<a href="mailto:tinu@schafhirt.ch">tinu@schafhirt.ch</a> <br>
   
-  <div class="p-2">
-    <img src="./docs/assets/tinu_I.jpg" alt="tinu 1" max-width="300px"  >
-  </div>
-
-  <div class="p-2"  >
-    <img src="./docs/assets/tinu_II.jpg" alt="tinu 2" >
-  </div>
-</div>
-
+<img src="./docs/assets/tinu_I.jpg" alt="tinu 1"   max-width="250px"> <br> 
+<img src="./docs/assets/tinu_II.jpg" alt="tinu 2"  max-width="250px"> <br>
+<img src="./docs/assets/tinu_III.jpg" alt="tinu 3" max-width="250px">
 
 <br>
 
